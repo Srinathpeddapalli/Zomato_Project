@@ -24,6 +24,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to Zomato for providing the data and insights necessary for this analysis.
 - Special thanks to the Excel community for their valuable resources and support in building this project.
 
-Feel free to contribute to this project by forking the repository, making improvements, and creating pull requests. If you have any questions or suggestions, please open an issue. Happy analyzing with Excel!
-
 ![Screenshot (40)](https://github.com/Srinathpeddapalli/Zomato_Project_Excel/assets/134639185/6925d29f-9f25-4f04-8b84-e4c488311dc9)
